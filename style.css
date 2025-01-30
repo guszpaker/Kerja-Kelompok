@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwright+IN:wght@100..400&display=swap');
+
+body {
+  font-family: 'Playfair Display', serif;
+}
+
+.navbar-brand, .nav-link, .banner h4, .banner h3 {
+  font-family: 'Playfair Display', serif;
+}
+
+.navbar-nav .nav-link {
+  margin-right: 15px;
+}
+
+.banner{
+  /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuufoPNEHOnW6kfEfTJyMnU08PffBPW4fmVjPNNP7Y5ZCX150LF5UCsaQ&s=10"); */
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(foto/background1.jpg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
